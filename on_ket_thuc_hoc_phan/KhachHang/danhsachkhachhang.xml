@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<danhsachkhachhang>
+  <khachhang makh="101" chinhanh="Hà Nội">
+    <hoten>Trần Long</hoten>
+    <diachi>Hà Nam</diachi>
+    <sodt>035999</sodt>
+  </khachhang>
+  <khachhang makh="102" chinhanh="Thái Nguyên">
+    <hoten>Phạm Ngọc</hoten>
+    <diachi>Quảng Nam</diachi>
+    <sodt>07999</sodt>
+  </khachhang>
+</danhsachkhachhang>

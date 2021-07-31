@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sieuthi>
+  <sanpham masp ="s01">
+    <tensp>Iphone</tensp>
+    <soluong>2000</soluong>
+    <namsx>2017</namsx>
+    <hangsx>
+      <mahang>h01</mahang>
+      <tenhang>Apple</tenhang>
+      <quocgia>Mỹ</quocgia>
+    </hangsx>
+  </sanpham>
+</sieuthi>

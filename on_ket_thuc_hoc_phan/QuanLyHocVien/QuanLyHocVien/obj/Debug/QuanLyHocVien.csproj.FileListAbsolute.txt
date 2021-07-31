@@ -1,0 +1,11 @@
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\QuanLyHocVien\QuanLyHocVien\bin\Debug\DSHV.xml
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\QuanLyHocVien\QuanLyHocVien\bin\Debug\QuanLyHocVien.exe.config
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\QuanLyHocVien\QuanLyHocVien\bin\Debug\QuanLyHocVien.exe
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\QuanLyHocVien\QuanLyHocVien\bin\Debug\QuanLyHocVien.pdb
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.csprojAssemblyReference.cache
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.Form1.resources
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.Properties.Resources.resources
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.csproj.GenerateResource.cache
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.csproj.CoreCompileInputs.cache
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.exe
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.pdb

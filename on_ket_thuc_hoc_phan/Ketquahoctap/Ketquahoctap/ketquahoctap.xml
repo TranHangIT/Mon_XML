@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ketquathi>
+  <sinhvien>
+    <masv>1111</masv>
+    <hoten>Le Van Cong</hoten>
+    <diemthi monhoc="Lap trinh windows">
+      <diemlan1>5</diemlan1>
+      <diemlan2>7</diemlan2>
+    </diemthi>
+  </sinhvien>
+  <sinhvien monhoc="Lap trinh java">
+    <masv>1112</masv>
+    <hoten>Le Van Thanh</hoten>
+    <diemthi>
+      <diemlan1>9</diemlan1>
+      <diemlan2>10</diemlan2>
+    </diemthi>
+  </sinhvien>
+  <sinhvien>
+    <masv>1113</masv>
+    <hoten>Phung Van Dai</hoten>
+    <diemthi monhoc="Lap trinh python">
+      <diemlan1>9</diemlan1>
+      <diemlan2>6</diemlan2>
+    </diemthi>
+  </sinhvien>
+  <sinhvien>
+    <masv>1112</masv>
+    <hoten>Nguyen Xuan Thanh</hoten>
+    <diemthi monhoc="Lap trinh c++">
+      <diemlan1>5</diemlan1>
+      <diemlan2>7</diemlan2>
+    </diemthi>
+  </sinhvien>
+  <sinhvien>
+    <masv>1112</masv>
+    <hoten>Le Van Thanh</hoten>
+    <diemthi monhoc="Lap trinh java">
+      <diemlan1>8</diemlan1>
+      <diemlan2>10</diemlan2>
+    </diemthi>
+  </sinhvien>
+</ketquathi>

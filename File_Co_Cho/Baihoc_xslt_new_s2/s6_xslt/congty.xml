@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="congty.xsl"?>
+<congty>
+    <nhanvien>
+        <manv>MV01</manv>
+        <hoten>Anh</hoten>
+        <tuoi>30</tuoi>
+        <diachi>Ha noi</diachi>
+    </nhanvien>
+    
+    <nhanvien>
+        <manv>MV02</manv>
+        <hoten>Tuan</hoten>
+        <tuoi>33</tuoi>
+        <diachi>Hai phong</diachi>
+    </nhanvien>
+    <nhanvien>
+        <manv>MV04</manv>
+        <hoten>Tuan</hoten>
+        <tuoi>100</tuoi>
+        <diachi>Hai phong</diachi>
+    </nhanvien>
+    
+    <nhanvien>
+        <manv>MV03</manv>
+        <hoten>Hoa</hoten>
+        <tuoi>20</tuoi>
+        <diachi>Quang ninh</diachi>
+    </nhanvien>
+    
+</congty>
