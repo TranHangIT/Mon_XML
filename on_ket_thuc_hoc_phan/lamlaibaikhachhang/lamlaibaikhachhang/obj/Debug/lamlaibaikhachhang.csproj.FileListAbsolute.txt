@@ -1,0 +1,11 @@
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\lamlaibaikhachhang\lamlaibaikhachhang\bin\Debug\danhsachkhachhang.xml
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\lamlaibaikhachhang\lamlaibaikhachhang\bin\Debug\lamlaibaikhachhang.exe.config
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\lamlaibaikhachhang\lamlaibaikhachhang\bin\Debug\lamlaibaikhachhang.exe
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\lamlaibaikhachhang\lamlaibaikhachhang\bin\Debug\lamlaibaikhachhang.pdb
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\lamlaibaikhachhang\lamlaibaikhachhang\obj\Debug\lamlaibaikhachhang.csprojAssemblyReference.cache
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\lamlaibaikhachhang\lamlaibaikhachhang\obj\Debug\lamlaibaikhachhang.Form1.resources
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\lamlaibaikhachhang\lamlaibaikhachhang\obj\Debug\lamlaibaikhachhang.Properties.Resources.resources
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\lamlaibaikhachhang\lamlaibaikhachhang\obj\Debug\lamlaibaikhachhang.csproj.GenerateResource.cache
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\lamlaibaikhachhang\lamlaibaikhachhang\obj\Debug\lamlaibaikhachhang.csproj.CoreCompileInputs.cache
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\lamlaibaikhachhang\lamlaibaikhachhang\obj\Debug\lamlaibaikhachhang.exe
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\lamlaibaikhachhang\lamlaibaikhachhang\obj\Debug\lamlaibaikhachhang.pdb

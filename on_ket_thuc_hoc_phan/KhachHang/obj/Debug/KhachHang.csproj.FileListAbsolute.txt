@@ -1,0 +1,11 @@
+D:\MON_HOC\XML\lam_bai\on_ket_thuc_hoc_phan\KhachHang\bin\Debug\danhsachkhachhang.xml
+D:\MON_HOC\XML\lam_bai\on_ket_thuc_hoc_phan\KhachHang\bin\Debug\KhachHang.exe.config
+D:\MON_HOC\XML\lam_bai\on_ket_thuc_hoc_phan\KhachHang\bin\Debug\KhachHang.exe
+D:\MON_HOC\XML\lam_bai\on_ket_thuc_hoc_phan\KhachHang\bin\Debug\KhachHang.pdb
+D:\MON_HOC\XML\lam_bai\on_ket_thuc_hoc_phan\KhachHang\obj\Debug\KhachHang.csprojAssemblyReference.cache
+D:\MON_HOC\XML\lam_bai\on_ket_thuc_hoc_phan\KhachHang\obj\Debug\KhachHang.Form1.resources
+D:\MON_HOC\XML\lam_bai\on_ket_thuc_hoc_phan\KhachHang\obj\Debug\KhachHang.Properties.Resources.resources
+D:\MON_HOC\XML\lam_bai\on_ket_thuc_hoc_phan\KhachHang\obj\Debug\KhachHang.csproj.GenerateResource.cache
+D:\MON_HOC\XML\lam_bai\on_ket_thuc_hoc_phan\KhachHang\obj\Debug\KhachHang.csproj.CoreCompileInputs.cache
+D:\MON_HOC\XML\lam_bai\on_ket_thuc_hoc_phan\KhachHang\obj\Debug\KhachHang.exe
+D:\MON_HOC\XML\lam_bai\on_ket_thuc_hoc_phan\KhachHang\obj\Debug\KhachHang.pdb

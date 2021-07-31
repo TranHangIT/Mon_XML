@@ -1,0 +1,5 @@
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\MauSac_Color\MauSac_Color\obj\Debug\MauSac_Color.csprojAssemblyReference.cache
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\MauSac_Color\MauSac_Color\obj\Debug\MauSac_Color.Form1.resources
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\MauSac_Color\MauSac_Color\obj\Debug\MauSac_Color.Properties.Resources.resources
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\MauSac_Color\MauSac_Color\obj\Debug\MauSac_Color.csproj.GenerateResource.cache
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\MauSac_Color\MauSac_Color\obj\Debug\MauSac_Color.csproj.CoreCompileInputs.cache

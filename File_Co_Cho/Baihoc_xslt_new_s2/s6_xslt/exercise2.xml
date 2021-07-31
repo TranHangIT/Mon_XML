@@ -1,0 +1,51 @@
+<?xml-stylesheet type="text/xsl" href="exercise2.xsl"?>
+    <departments>
+        <department>
+            <departmentName>Human Resource</departmentName>
+            <employee>
+                <name>Pham Kim Lien</name>
+                <age>25</age>
+                <receiveDate>12-11-2009</receiveDate>
+                <level>University</level>
+                <income>12000</income>
+            </employee>
+            <employee>
+                <name>Nguyen Mai Anh</name>
+                <age>40</age>
+                <receiveDate>12-11-2009</receiveDate>
+                <level>University</level>
+                <income>12000</income>
+            </employee>
+            <employee>
+                <name>Hoang Van Long</name>
+                <age>30</age>
+                <receiveDate>12-11-2009</receiveDate>
+                <level>University</level>
+                <income>12000</income>
+            </employee>
+        </department>
+        <department>
+            <departmentName>Human Resource</departmentName>
+            <employee>
+                <name>Pham Thi Hai</name>
+                <age>25</age>
+                <receiveDate>12-11-2009</receiveDate>
+                <level>University</level>
+                <income>12000</income>
+            </employee>
+            <employee>
+                <name>Tran Long Van</name>
+                <age>40</age>
+                <receiveDate>12-11-2009</receiveDate>
+                <level>University</level>
+                <income>12000</income>
+            </employee>
+            <employee>
+                <name>Phuong Hong Thuy</name>
+                <age>30</age>
+                <receiveDate>12-11-2009</receiveDate>
+                <level>University</level>
+                <income>12000</income>
+            </employee>
+        </department>
+    </departments>

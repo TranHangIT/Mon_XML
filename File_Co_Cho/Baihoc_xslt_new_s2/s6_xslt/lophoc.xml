@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" href="lophoc.xsl"?>
+<lophoc>
+    <sinhvien>
+        <hoten>Van</hoten>
+        <tuoi>19</tuoi>
+        <diachi>Ha Noi</diachi>
+    </sinhvien>
+    <sinhvien>
+        <hoten>Tuan</hoten>
+        <tuoi>16</tuoi>
+        <diachi>Ha Noi</diachi>
+    </sinhvien>
+    <sinhvien>
+        <hoten>Phuong</hoten>
+        <tuoi>13</tuoi>
+        <diachi>Ha Noi</diachi>
+    </sinhvien>
+    <sinhvien>
+        <hoten>Van Anh</hoten>
+        <tuoi>14</tuoi>
+        <diachi>Ha Noi</diachi>
+    </sinhvien>
+    <sinhvien>
+        <hoten>Hai</hoten>
+        <tuoi>18</tuoi>
+        <diachi>Ha Noi</diachi>
+    </sinhvien>
+</lophoc>

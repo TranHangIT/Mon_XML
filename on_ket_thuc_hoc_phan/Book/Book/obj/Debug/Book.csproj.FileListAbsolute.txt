@@ -1,0 +1,11 @@
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\Book\Book\bin\Debug\thuvien.xml
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\Book\Book\bin\Debug\Book.exe.config
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\Book\Book\bin\Debug\Book.exe
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\Book\Book\bin\Debug\Book.pdb
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\Book\Book\obj\Debug\Book.csprojAssemblyReference.cache
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\Book\Book\obj\Debug\Book.Form1.resources
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\Book\Book\obj\Debug\Book.Properties.Resources.resources
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\Book\Book\obj\Debug\Book.csproj.GenerateResource.cache
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\Book\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\Book\Book\obj\Debug\Book.exe
+D:\MONHOC-NAM3\xml\on_ket_thuc_hoc_phan\Book\Book\obj\Debug\Book.pdb

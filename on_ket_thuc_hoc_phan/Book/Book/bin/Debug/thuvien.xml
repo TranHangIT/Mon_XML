@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thuvien>
+  <user>freddy</user>
+  <passwd>longNails</passwd>
+  <books>
+    <book author="Steinbreck" title="Cannery Row2" />
+    <book author="Faulkner" title="Soldier's Pay" />
+    <book author="Steinbeck" title="East of Eden" />
+    <book author="hang" title="pp" />
+    <book author="Steinbeck1" title="East of Eden" />
+  </books>
+</thuvien>

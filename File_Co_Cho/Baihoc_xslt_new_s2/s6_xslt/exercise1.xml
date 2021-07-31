@@ -1,0 +1,75 @@
+<?xml-stylesheet type="text/xsl" href="exercise1.xsl"?>
+<showrooms>
+    <showroom id="1">
+        <address>35 Nguyen Hue St.</address>
+        <pay>2500</pay>
+        <batch>
+            <year>2007</year>
+            <allowance>2</allowance>
+            <employee>
+                <name>Nguyen Van Anh</name>
+                <age>40</age>
+            </employee>
+            <employee>
+                <name>Tran Thi Binh</name>
+                <age>35</age>
+            </employee>
+            <employee>
+                <name>Truong Hoang Cong</name>
+                <age>37</age>
+            </employee>
+        </batch>
+        <batch>
+            <year>2010</year>
+            <allowance>3</allowance>
+            <employee>
+                <name>Nguyen Van Nam</name>
+                <age>40</age>
+            </employee>
+            <employee>
+                <name>Tran Thi Huong</name>
+                <age>35</age>
+            </employee>
+            <employee>
+                <name>Truong Hoang Nam</name>
+                <age>37</age>
+            </employee>
+        </batch>
+    </showroom>
+    <showroom id="2">
+        <address>128 Tran Thuc Nhan St.</address>
+        <pay>2500</pay>
+        <batch>
+            <year>2009</year>
+            <allowance>4</allowance>
+            <employee>
+                <name>Nguyen Van Hai</name>
+                <age>40</age>
+            </employee>
+            <employee>
+                <name>Tran Thi Hoa</name>
+                <age>35</age>
+            </employee>
+            <employee>
+                <name>Truong Hoang Long</name>
+                <age>37</age>
+            </employee>
+        </batch>
+        <batch>
+            <year>2011</year>
+            <allowance>8</allowance>
+            <employee>
+                <name>Nguyen Van Tuan</name>
+                <age>40</age>
+            </employee>
+            <employee>
+                <name>Tran Thi Lan</name>
+                <age>35</age>
+            </employee>
+            <employee>
+                <name>Truong Hoang Bach</name>
+                <age>37</age>
+            </employee>
+        </batch>
+    </showroom>
+</showrooms>

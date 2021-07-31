@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SampleXML>
+  <Colors>
+    <Color1>White</Color1>
+    <Color2>Blue</Color2>
+    <Color3>Black</Color3>
+    <Color4 Special="Light">Green</Color4>
+    <Color5>Red</Color5>
+  </Colors>
+  <Fruits>
+    <Fruit1>Apple</Fruit1>
+    <Fruit2>Pineapple</Fruit2>
+    <Fruit3>Grapes</Fruit3>
+    <Fruit4>Melon</Fruit4>
+  </Fruits>
+</SampleXML>

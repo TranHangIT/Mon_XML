@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<danhsachkhachhang>
+  <khachhang makh="102" chinhanh="Hà Nội ">
+    <hoten>Phạm Ngọc Thạch</hoten>
+    <diachi>Quảng Nam</diachi>
+    <sodt>07999</sodt>
+  </khachhang>
+  <khachhang makh="103" chinhanh="Hà Nội ">
+    <hoten>Ngọc Ngoan</hoten>
+    <diachi>Hà Nam</diachi>
+    <sodt>035999</sodt>
+  </khachhang>
+  <khachhang makh="104" chinhanh="Hải Dương">
+    <hoten>Ngọc Ngoan</hoten>
+    <diachi>Hà Nam</diachi>
+    <sodt>035999</sodt>
+  </khachhang>
+</danhsachkhachhang>

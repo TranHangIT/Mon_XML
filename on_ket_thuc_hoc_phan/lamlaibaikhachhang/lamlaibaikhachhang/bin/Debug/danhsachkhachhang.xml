@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<danhsachkhachhang>
+  <khachhang makh="101" chinhanh="Ha Noi">
+    <hoten> Tran Hang</hoten>
+    <diachi> Nghe an</diachi>
+    <sodt>0845677</sodt>
+  </khachhang>
+  <khachhang makh="102" chinhanh="Nghe an">
+    <hoten> Tran Hang</hoten>
+    <diachi> Nghe an</diachi>
+    <sodt>0845677</sodt>
+  </khachhang>
+  <khachhang makh="1" chinhanh="Quảng Nam">
+    <hoten>1</hoten>
+    <diachi>1</diachi>
+    <sodt>1</sodt>
+  </khachhang>
+  <khachhang makh="2" chinhanh="Hải Phòng ">
+    <hoten>1</hoten>
+    <diachi>1</diachi>
+    <sodt>1</sodt>
+  </khachhang>
+  <khachhang makh="3" chinhanh="Hải Phòng ">
+    <hoten>3</hoten>
+    <diachi>3</diachi>
+    <sodt>3</sodt>
+  </khachhang>
+</danhsachkhachhang>

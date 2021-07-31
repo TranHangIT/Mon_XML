@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeThi", "DeThi\DeThi.csproj", "{532B8CE6-3AB2-4151-B753-DC9510F5BA55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{532B8CE6-3AB2-4151-B753-DC9510F5BA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532B8CE6-3AB2-4151-B753-DC9510F5BA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532B8CE6-3AB2-4151-B753-DC9510F5BA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532B8CE6-3AB2-4151-B753-DC9510F5BA55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4C0F486-74BA-4F7D-9947-BD7A7CC22E42}
+	EndGlobalSection
+EndGlobal

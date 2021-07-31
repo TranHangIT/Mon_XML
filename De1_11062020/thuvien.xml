@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<thuvien>
+  <sach masach="s01">
+    <tensach>Lập trình Windows</tensach>
+    <sotrang>200</sotrang>
+    <tacgia hoten="Nguyen Lan Anh">
+      <diachi>Ha Noi</diachi>
+    </tacgia>
+  </sach>
+</thuvien>

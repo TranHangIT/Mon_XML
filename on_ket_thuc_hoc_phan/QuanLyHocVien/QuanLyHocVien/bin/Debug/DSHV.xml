@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DSHV>
+  <HocVien ma="hv01"  NgaySinh="2/2/2020">
+    <hoten>Tran Thi Hang</hoten>
+    <gioitinh> Nu</gioitinh>
+  </HocVien>
+  <HocVien ma="hv02"  NgaySinh="2/4/2020">
+    <hoten>Tran Thi Hang</hoten>
+    <gioitinh> Nu</gioitinh>
+  </HocVien>
+  <HocVien ma="hv03"  NgaySinh="2/4/2020">
+    <hoten>Tran Thi Hang</hoten>
+    <gioitinh> Nu</gioitinh>
+  </HocVien>
+</DSHV>

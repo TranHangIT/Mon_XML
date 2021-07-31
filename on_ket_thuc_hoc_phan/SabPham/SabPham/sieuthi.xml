@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sieuthi>
+  <sanpham >
+    <masp> sp01</masp>
+    <tensp>Iphone</tensp>
+    <soluong>20</soluong>
+    <namsx>2017</namsx>
+    <hangsx mahang="h01" tenhang="Apple">
+      <quocgia>Mỹ</quocgia>
+    </hangsx>
+  </sanpham>
+  <sanpham >
+    <masp> sp02</masp>
+    <tensp>Iphone</tensp>
+    <soluong>20</soluong>
+    <namsx>2017</namsx>
+    <hangsx mahang="h02" tenhang="Apple">
+      <quocgia>Mỹ</quocgia>
+    </hangsx>
+  </sanpham>
+</sieuthi>

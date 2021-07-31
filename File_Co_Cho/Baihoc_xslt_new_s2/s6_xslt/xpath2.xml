@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="xpath2.xsl" type="text/xsl"?>
+<books>
+    <book type="hardback">
+        <title>Atlas Shrugged</title>
+        <author>Ayn Rand</author>
+        <isbn>0525934189</isbn>
+        <price>39.95</price>
+    </book>
+    <book type="paperback">
+        <title>A Burnt-Out Case</title>
+        <author>Graham Greene</author>
+        <isbn>0140185399</isbn>
+        <price>13.00</price>
+    </book>
+</books>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sieuthi>
+  <sanpham masp="s02">
+    <tensp>Iphone</tensp>
+    <soluong>30</soluong>
+    <namsx>2020</namsx>
+    <hangsx>
+      <mahang>h01</mahang>
+      <tenhang>Apple</tenhang>
+      <quocgia>Mỹ</quocgia>
+    </hangsx>
+  </sanpham>
+  <sanpham masp="s01">
+    <tensp>Samsung Galaxy Fold</tensp>
+    <soluong>30</soluong>
+    <namsx>2020</namsx>
+    <hangsx>
+      <mahang>h03</mahang>
+      <tenhang>Samsung</tenhang>
+      <quocgia>Mỹ</quocgia>
+    </hangsx>
+  </sanpham>
+  <sanpham masp="s03">
+    <tensp>Oppo A37</tensp>
+    <soluong>30</soluong>
+    <namsx>2020</namsx>
+    <hangsx>
+      <mahang>h02</mahang>
+      <tenhang>Oppo</tenhang>
+      <quocgia>Hàn Quốc</quocgia>
+    </hangsx>
+  </sanpham>
+  <sanpham masp="s04">
+    <tensp>Samsung Galaxy Fold</tensp>
+    <soluong>20</soluong>
+    <namsx>2020</namsx>
+    <hangsx>
+      <mahang>h03</mahang>
+      <tenhang>Samsung</tenhang>
+      <quocgia>Mỹ</quocgia>
+    </hangsx>
+  </sanpham>
+</sieuthi>

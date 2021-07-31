@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lophoc>
+    <sinhvien>
+        <masv>309230</masv>
+        <hoten>Van ANh</hoten>
+        <diachi>Hanoi</diachi>
+        <diemcacmon>
+            <cnxml>9</cnxml>
+            <java>9</java>
+            <cshapr>9</cshapr>
+        </diemcacmon>
+    </sinhvien>
+      <sinhvien>
+        <masv>309230</masv>
+        <hoten>Van ANh</hoten>
+        <diachi>Hanoi</diachi>
+        <diemcacmon>
+            <cnxml>9</cnxml>
+            <java>9</java>
+            <cshapr>9</cshapr>
+        </diemcacmon>
+    </sinhvien>
+      <sinhvien>
+        <masv>309230</masv>
+        <hoten>Van ANh</hoten>
+        <diachi>Hanoi</diachi>
+        <diemcacmon>
+            <cnxml>9</cnxml>
+            <java>9</java>
+            <cshapr>9</cshapr>
+        </diemcacmon>
+    </sinhvien>
+</lophoc>
